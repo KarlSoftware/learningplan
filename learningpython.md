@@ -17,7 +17,12 @@
 - [Microsoft's Best-Kept Secrets - Python Tools for Visual Studio](http://www.hanselman.com/blog/OneOfMicrosoftsBestKeptSecretsPythonToolsForVisualStudioPTVS.aspx)
 - [Python Best Practice Patterns by Vladimir Keleshev](http://stevenloria.com/python-best-practice-patterns-by-vladimir-keleshev-notes/)
 - [Data Exploration in Python using NumPy, Matplotlib and Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
-- 
+- [Python Progression Path - from apprentice to Guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+- [Creating Powerpoint Presentations with Python](http://pbpython.com/creating-powerpoint.html)
+- [Symbolic computation with Python, SymPy](https://in.pycon.org/cfp/pycon-india-2015/proposals/symbolic-computation-with-python-sympy~bqYrb/)
+- [Python and the Principle of Least Astonishment](http://lucumr.pocoo.org/2011/7/9/python-and-pola/)
+- [11 Python libraries you might not know](http://blog.yhat.com/posts/11-python-libraries-you-might-not-know.html)
+- [Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)
 
 ## Python Courses
 - [PHY 546: Python for Scientific Computing - Sunny SB](http://bender.astro.sunysb.edu/classes/python-science/)
@@ -30,6 +35,13 @@
 - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 - [Al Sweigart all books](http://inventwithpython.com/)
 - Python for Informatics: Exploring Information [Python 2](http://www.pythonlearn.com/) [Python 3](https://www.py4e.com/)
+- [The Python Tutorial 2.7 - Unofficial](https://leanpub.com/python-tutorial-27)
+- [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
+- [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
+- [Python for Kids](https://www.nostarch.com/pythonforkids)
+- [Doing Math woth Python](http://doingmathwithpython.github.io/pages/about.html)
+- 
 
 ## Python Packages
 - [Color Science for Python](http://www.colorpipe.org/colour-science-for-python/)
