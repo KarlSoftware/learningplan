@@ -1,5 +1,8 @@
 # A Plan for Learning Python
 
+## Plan
+Start with Datacamp courses in Python and after completing raw python courses, move to automate course in Udemy.
+
 ## Basic Lessons
 
 ## Exercises
