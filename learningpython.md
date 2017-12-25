@@ -8,7 +8,8 @@ Start with Datacamp courses in Python and after completing raw python courses, m
 ## Exercises
 - [Paid - Practice Makes Python](https://store.lerner.co.il/practice-makes-python-complete-package-7814c8cd-c30c-4fd2-870b-83036a8e7230)
 - [10 little IDL programs in Python](http://blog.rtwilson.com/ten-little-idl-programs-in-python/)
-- 
+- [PyBites Code Challenge](https://codechalleng.es/challenges/?next=/)
+
 
 ## Articles
 - [Python Tips and Traps](https://www.airpair.com/python/posts/python-tips-and-traps)
@@ -38,6 +39,7 @@ Start with Datacamp courses in Python and after completing raw python courses, m
 - [Taching Quantum Chemistry with Python](https://tmarkovich.com/2015/01/11/teaching-quantum-chemistry-with-ipython/)
 - [Python objects and classes](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 - [A complete tutorial to learn data science with Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+- [Using both Python 2 and 3 in Windows](https://spapas.github.io/2017/12/20/python-2-3-windows/)
 - 
 
 
@@ -45,7 +47,7 @@ Start with Datacamp courses in Python and after completing raw python courses, m
 - [PHY 546: Python for Scientific Computing - Sunny SB](http://bender.astro.sunysb.edu/classes/python-science/)
 - [Introduction to Programming with Python - Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-programming-with-python-8360?l=6i7caxFz_8904984382)
 - [Python GTK3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
-- 
+- [Tan Pham's Python Course](https://courses.tanpham.org/users/sign_in)
 
 ## Websites Dedicated to Python
 
@@ -70,6 +72,9 @@ Start with Datacamp courses in Python and after completing raw python courses, m
 - [Functional Programming with Python](http://radar.oreilly.com/2015/07/get-started-with-functional-programming-in-python.html)
 - [A Primer on Scientific Programming with Python](http://hplgit.github.io/scipro-primer/)
 - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+- [Make Art with Python](https://www.makeartwithpython.com/about/)
+- [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/)
+- [Neuronal Dynamics with Python](http://neuronaldynamics.epfl.ch/online/index.html)
 
 
 ## Python Packages
@@ -98,4 +103,4 @@ Start with Datacamp courses in Python and after completing raw python courses, m
 - [Best Python Books for 2015](http://pythoncommunity.com/2015-12-best-python-books)
 - [Python Books](http://importpython.com/books/)
 - [Learning Python for Data Science](https://pythontips.com/2016/02/27/learning-python-for-data-science/)
-
+- [Python Books](http://codeandlearn.herokuapp.com/languages/python)
